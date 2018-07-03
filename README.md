@@ -1,2 +1,8 @@
 <h3>The JavaScript Algorithms and Data Structures Projects from FreeCodeCamp</h3>
 <hr>
+
+<h2>What the methods were used to solve the challenges</h2>
+<ul>
+  <p><strong>Palindrome Checker:</strong> reverse(); split(); regex; replace()</p>
+  <p><strong>Roman Numeral Converter:</strong> for loop; while loop</p>
+</ul>
