@@ -6,4 +6,5 @@
   <p><strong>Palindrome Checker:</strong> reverse(); split(); regex; replace()</p>
   <p><strong>Roman Numeral Converter:</strong> for loop; while loop</p>
   <p><strong>Caesars Cipher:</strong> charCodeAt(); fromCharCode(); map();</p>
+  <p><strong>Telephone Number Validator:</strong> regex;</p>
 </ul>
